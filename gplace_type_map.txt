@@ -1,0 +1,95 @@
+accounting	Professional&Other Places
+home_goods_store	Shops&Services
+airport	Travel&Transport
+hospital	Professional&Other Places
+amusement_park	Arts&Entertainment
+insurance_agency	Professional&Other Places
+aquarium	Arts&Entertainment
+jewelry_store	Shops&Services
+art_gallery	Arts&Entertainment
+laundry	Shops&Services
+atm	Shops&Services
+lawyer	Shops&Services
+bakery	Food
+library	Professional&Other Places
+bank	Shops&Services
+liquor_store	Shops&Services
+bar	Nightlife Spot
+local_government_office	Professional&Other Places
+beauty_salon	Shops&Services
+locksmith	Shops&Services
+bicycle_store	Shops&Services
+lodging	Travel&Transport
+book_store	Shops&Services
+meal_delivery	Food
+bowling_alley	Arts&Entertainment
+meal_takeaway	Food
+bus_station	Travel&Transport
+mosque	Professional&Other Places
+cafe	Food
+movie_rental	Shops&Services
+campground	Outdoors&Recreation
+movie_theater	Arts&Entertainment
+car_dealer	Shops&Services
+moving_company	Professional&Other Places
+car_rental	Travel&Transport
+museum	Arts&Entertainment
+car_repair	Shops&Services
+night_club	Nightlife Spot
+car_wash	Shops&Services
+painter	Shops&Services
+casino	Arts&Entertainment
+park	Outdoors&Recreation
+cemetery	Outdoors&Recreation
+parking	Professional&Other Places
+church	Professional&Other Places
+pet_store	Shops&Services
+city_hall	Professional&Other Places
+pharmacy	Shops&Services
+clothing_store	Shops&Services
+physiotherapist	Professional&Other Places
+convenience_store	Shops&Services
+place_of_worship	Professional&Other Places
+courthouse	Professional&Other Places
+plumber	Shops&Services
+dentist	Professional&Other Places
+police	Professional&Other Places
+department_store	Shops&Services
+post_office	Professional&Other Places
+doctor	Professional&Other Places
+real_estate_agency	Professional&Other Places
+electrician	Shops&Services
+restaurant	Food
+electronics_store	Shops&Services
+roofing_contractor	Shops&Services
+embassy	Professional&Other Places
+rv_park	Travel&Transport
+school	College&University
+finance	Professional&Other Places
+shoe_store	Shops&Services
+fire_station	Professional&Other Places
+shopping_mall	Shops&Services
+florist	Shop&Service
+spa	Shop&Service
+food	Food
+stadium	Arts&Entertainment
+funeral_home	Professional&Other Places
+storage	Shop&Service
+furniture_store	Shop&Service
+store	Shop&Service
+gas_station	Shop&Service
+subway_station	Travel&Transport
+general_contractor	Professional&Other Places
+synagogue	Professional&Other Places
+grocery_or_supermarket	Shop&Service
+taxi_stand	Travel&Transport
+gym	Shop&Service
+train_station	Travel&Transport
+hair_care	Shop&Service
+travel_agency	Shop&Service
+hardware_store	Shop&Service
+university	College&University
+health	Shop&Service
+veterinary_care	Shop&Service
+hindu_temple	Professional&Other Places
+zoo	Arts&Entertainment
