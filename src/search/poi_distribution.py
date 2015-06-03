@@ -12,7 +12,11 @@ def poi_type_map(file):
     return poi_convert
     
 
-    
-poi_convert = poi_type_map("../../gplace_type_map.txt")
-for key in poi_convert:
-    print(key,poi_convert[key])
+def main():    
+    poi_convert = poi_type_map("../../gplace_type_map.txt")
+    for key in poi_convert:
+        print(key,poi_convert[key])
+
+
+if __name__ == '__main__':
+    main()
